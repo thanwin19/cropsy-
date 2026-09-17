@@ -1,0 +1,2 @@
+# cropsy-
+multimodel agentic ai 
